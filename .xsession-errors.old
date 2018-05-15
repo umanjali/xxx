@@ -1,0 +1,79 @@
+GNOME_KEYRING_SOCKET=/tmp/keyring-NTq1UC/socket
+SSH_AUTH_SOCK=/tmp/keyring-NTq1UC/socket.ssh
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: adding killswitch idx 0 state KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitch 0 is KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitches state KILLSWITCH_STATE_UNBLOCKED
+
+(polkit-gnome-authentication-agent-1:2716): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:2716): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+
+(bluetooth-applet:2679): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+** Message: killswitch 0 is KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitches state KILLSWITCH_STATE_UNBLOCKED
+(null):  Warning no default label for /home/umanjali/.gvfs
+Failed to play sound: File or data not found
+** Message: applet now removed from the notification area
+Sense key: 0xf0 0x00 0x02 0x00 0x00 0x00 0x00 0x0a 0x00 0x00 0x00 0x00 0x30 0x00 0x00 0x00 0x00 0x00 0x00 
+Initializing nautilus-gdu extension
+Initializing nautilus-open-terminal extension
+** Message: applet now embedded in the notification area
+Window manager warning: Received a _NET_WM_MOVERESIZE message for 0x2e00004 (umanjali@l); these messages lack timestamps and therefore suck.
+
+(bluetooth-applet:2679): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(bluetooth-applet:2679): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(bluetooth-applet:2679): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(bluetooth-applet:2679): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(bluetooth-applet:2679): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(bluetooth-applet:2679): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(bluetooth-applet:2679): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(bluetooth-applet:2679): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+1526312656037	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+
+(nm-applet:2726): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(nm-applet:2726): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(nm-applet:2726): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(nm-applet:2726): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(gpk-update-icon:2696): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(gpk-update-icon:2696): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(gpk-update-icon:2696): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(gpk-update-icon:2696): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(nm-applet:2726): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(nm-applet:2726): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(nm-applet:2726): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(nm-applet:2726): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2600003 (Authentica)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.

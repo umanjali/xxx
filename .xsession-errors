@@ -1,0 +1,33 @@
+GNOME_KEYRING_SOCKET=/tmp/keyring-saSKNV/socket
+SSH_AUTH_SOCK=/tmp/keyring-saSKNV/socket.ssh
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: adding killswitch idx 0 state KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitch 0 is KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitches state KILLSWITCH_STATE_UNBLOCKED
+
+(bluetooth-applet:2672): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+** Message: killswitch 0 is KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitches state KILLSWITCH_STATE_UNBLOCKED
+Failed to play sound: File or data not found
+
+(polkit-gnome-authentication-agent-1:2701): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:2701): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+(null):  Warning no default label for /home/umanjali/.gvfs
+** Message: applet now removed from the notification area
+Initializing nautilus-gdu extension
+Initializing nautilus-open-terminal extension
+** Message: applet now embedded in the notification area
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+
+(gnome-volume-control-applet:2688): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(gnome-volume-control-applet:2688): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(gnome-volume-control-applet:2688): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(gnome-volume-control-applet:2688): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+1526365666503	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
